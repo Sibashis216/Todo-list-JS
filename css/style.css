@@ -132,16 +132,18 @@ table tr td button {
   
   /* The Close Button */
   .close {
-    color: #aaaaaa;
+    color: green;
     float: right;
     font-size: 28px;
     font-weight: bold;
+    width: 95px;
   }
   .closee {
-    color: #aaaaaa;
+    color: green;
     float: right;
     font-size: 28px;
     font-weight: bold;
+    width: 95px;
   }
   
   .ok:hover,
@@ -179,7 +181,7 @@ form button {
     border: none;
     display: none;
     width: 59px;
-    height: 62px;
+    height: 53px;
     line-height: 48px;
     font-size: 68px;
     border-radius: 50%;
