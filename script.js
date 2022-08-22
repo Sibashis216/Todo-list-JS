@@ -26,9 +26,7 @@ addtaskinput.addEventListener("keypress", function (event) {
 //     }
 // })}
 
-
-
-
+ 
 
 //   Completedtasks
 function completedtasks() {
